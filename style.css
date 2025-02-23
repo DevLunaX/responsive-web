@@ -1,0 +1,22 @@
+
+    body {
+        background-color: #121212;
+        color: white;
+        font-family: Arial, sans-serif;
+    }
+    .sidebar {
+        height: 100vh;
+        background-color: #1c1c1c;
+        padding: 20px;
+    }
+    .highlight {
+        color: #00ffcc;
+    }
+    .contact-btn {
+        border: 2px solid #00ffcc;
+        color: #00ffcc;
+    }
+    .contact-btn:hover {
+        background-color: #00ffcc;
+        color: #121212;
+    }
